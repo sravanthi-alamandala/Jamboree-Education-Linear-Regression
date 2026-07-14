@@ -38,8 +38,8 @@ The dataset contains information such as:
 
 ## 📁 Files
 
-- Jamboree_Linear_Regression.ipynb
-- Jamboree_Project_Report.pdf
+- Business_Case_Jamboree_Education.ipynb
+- Business_case_Jamboree_Education.pdf
 
 ## 💡 Key Insights
 
